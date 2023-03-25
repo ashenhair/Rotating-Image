@@ -1,7 +1,4 @@
-
-![Ekran Alıntısı](https://user-images.githubusercontent.com/100282383/183446143-7602f022-b55e-40c1-b966-a77cd6e9006e.JPG)
-
-
-
-# Rotating-Image
 Rotating Image
+
+
+[rotating_images.webm](https://user-images.githubusercontent.com/100282383/227714329-aa0c9c73-0127-41f9-9667-5e388066ae70.webm)
